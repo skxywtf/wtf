@@ -1,0 +1,20 @@
+{
+  "name": "World Trade Factory",
+  "short_name": "WTF",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#00C6FF",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/skxywtf/wtf/main/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/skxywtf/wtf/main/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

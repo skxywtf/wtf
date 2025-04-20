@@ -4,7 +4,7 @@
   "start_url": "/",
   "display": "standalone",
   "background_color": "#121212",
-  "theme_color": "#00C6FF",
+  "theme_color": "#00ab74",
   "icons": [
     {
       "src": "https://raw.githubusercontent.com/skxywtf/wtf/main/icon-192x192.png",
